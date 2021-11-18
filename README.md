@@ -1,4 +1,4 @@
-<!-- Add banner here -->
+![alt text](C:\Users/vishal/Desktop/Professional Stuff/readme_stuff/banner images/for python portfolio.png)
 
 # Medical Insurance Costs
 
@@ -8,7 +8,6 @@
 
 <!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
-![alt text](C:\Users/vishal/Desktop/Professional Stuff/readme_stuff/banner images/for python portfolio.png)
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
