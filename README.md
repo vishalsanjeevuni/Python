@@ -1,8 +1,8 @@
 <!-- Add banner here -->
 
-# Investigating US Medical Insurance Costs dataset using Python.
+# Medical Insurance Costs
 
-<!-- Add buttons here -->
+<!-- Investigating US Medical Insurance Costs dataset -->
 
 <!-- Describe your project in brief -->
 
